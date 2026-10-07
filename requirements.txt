@@ -1,0 +1,12 @@
+pymupdf4llm==1.28.2
+fastapi==0.142.2
+uvicorn==0.54.0
+python-multipart==0.0.32
+SQLAlchemy==2.0.54
+alembic==1.20.0
+regex==2026.9.29
+pipecat-ai[google,runner,webrtc]==1.8.1
+langgraph==1.2.13
+neo4j==6.4.0
+google-genai==2.9.0
+python-dotenv==1.2.4
